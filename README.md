@@ -14,3 +14,5 @@ Categories grouped: Groups categorical columns ('Gender', 'Customer Type', 'Type
 Rating columns visualization: For columns with ratings from 0 to 5, such as 'Seat comfort', 'Departure/Arrival time convenient', and others, it maps the ratings to descriptive labels ('Not Rated', 'Bad', 'Okay', 'Good', 'Very Good', 'Excellent') and plots bar charts showing satisfaction distribution by each rating.
 
 Age groups visualization: Categorizes passenger ages into groups and plots a bar chart showing the satisfaction distribution within each age group.
+
+plot_satisfied_withdelay_vs_dissatisfied: Compares passenger satisfaction levels for both arrival and departure delays.
